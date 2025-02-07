@@ -900,6 +900,7 @@ cc_library {
         "//system/core/fs_mgr/libsnapshot",
         "//system/security/keystore",
         "//system/update_engine",
+        "//system/vold",
         "//test/sts/tests/hostside/securityPatch:__subpackages__",
         "//vendor:__subpackages__",
     ],
